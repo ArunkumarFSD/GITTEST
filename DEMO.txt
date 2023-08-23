@@ -1,0 +1,5 @@
+Deleting files on Git is often a source of confusion : do I need to delete them from my repository or should I delete them from the filesystem?
+
+If you introduced a file in previous commits, is there a way for you to delete this file from all the commits in the repository?
+
+In this tutorial, we are going to see how you can easily delete files on Git, whether it is only from your Git repository or from the filesystem.
